@@ -15,6 +15,8 @@ n: an integer, the number of children in the class
 arr: an array of integers representing the ratings of each student
 
 Input Format
-
 The first line contains an integer,n , the size of arr.
 Each of the next n lines contains an integer arr[i] indicating the rating of the student at position i.
+
+Output Format
+Output a single line containing the minimum number of candies Alice must buy.
